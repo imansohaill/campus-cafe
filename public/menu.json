@@ -1,0 +1,302 @@
+{
+  "canteen": "Campus Canteen",
+  "currency": "Rs",
+  "items": [
+    {
+      "id": "pancake-stack",
+      "name": "Pancake Stack",
+      "category": "Breakfast",
+      "price": 350,
+      "emoji": "🥞",
+      "description": "Three fluffy pancakes with maple syrup and butter.",
+      "calories": 540,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/pancake-stack.jpeg"
+    },
+    {
+      "id": "egg-sandwich",
+      "name": "Egg & Cheese Sandwich",
+      "category": "Breakfast",
+      "price": 250,
+      "emoji": "🥪",
+      "description": "Fried egg and melted cheddar on a toasted bun.",
+      "calories": 410,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/egg-sandwich.jpeg"
+    },
+    {
+      "id": "omelette-toast",
+      "name": "Omelette & Toast",
+      "category": "Breakfast",
+      "price": 180,
+      "emoji": "🍳",
+      "description": "Two-egg omelette with buttered toast.",
+      "calories": 390,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/omelette-toast.jpeg"
+    },
+    {
+      "id": "chicken-fried-rice",
+      "name": "Chicken Fried Rice",
+      "category": "Mains",
+      "price": 350,
+      "emoji": "🍚",
+      "description": "Wok-fried rice with chicken, egg, spring onion and soy.",
+      "calories": 640,
+      "tags": [],
+      "available": true,
+      "image": "images/chicken-fried-rice.jpeg"
+    },
+    {
+      "id": "kung-pao-chicken",
+      "name": "Kung Pao Chicken",
+      "category": "Mains",
+      "price": 420,
+      "emoji": "🥡",
+      "description": "Stir-fried chicken with peanuts, peppers and a sweet-spicy sauce, served with rice.",
+      "calories": 690,
+      "tags": [
+        "Spicy"
+      ],
+      "available": true,
+      "image": "images/kung-pao-chicken.jpeg"
+    },
+    {
+      "id": "veg-chow-mein",
+      "name": "Veg Chow Mein",
+      "category": "Mains",
+      "price": 280,
+      "emoji": "🍜",
+      "description": "Stir-fried noodles with cabbage, carrot and capsicum.",
+      "calories": 520,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/veg-chow-mein.jpeg"
+    },
+    {
+      "id": "sweet-sour-chicken",
+      "name": "Sweet & Sour Chicken",
+      "category": "Mains",
+      "price": 400,
+      "emoji": "🍗",
+      "description": "Crispy chicken in a tangy pineapple sauce with rice.",
+      "calories": 720,
+      "tags": [],
+      "available": false,
+      "image": "images/sweet-sour-chicken.jpeg"
+    },
+    {
+      "id": "chicken-burger",
+      "name": "Crispy Chicken Burger",
+      "category": "Mains",
+      "price": 350,
+      "emoji": "🍔",
+      "description": "Crunchy chicken fillet, lettuce and mayo in a sesame bun.",
+      "calories": 610,
+      "tags": [],
+      "available": true,
+      "image": "images/chicken-burger.jpeg"
+    },
+    {
+      "id": "margherita-pizza",
+      "name": "Margherita Pizza",
+      "category": "Mains",
+      "price": 450,
+      "emoji": "🍕",
+      "description": "Thin-crust pizza with tomato sauce and mozzarella.",
+      "calories": 780,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/margherita-pizza.jpeg"
+    },
+    {
+      "id": "club-sandwich",
+      "name": "Club Sandwich",
+      "category": "Mains",
+      "price": 320,
+      "emoji": "🥪",
+      "description": "Triple-decker with grilled chicken, egg, lettuce and tomato. Comes with fries.",
+      "calories": 680,
+      "tags": [],
+      "available": true,
+      "image": "images/club-sandwich.jpeg"
+    },
+    {
+      "id": "spring-rolls",
+      "name": "Veg Spring Rolls (4 pcs)",
+      "category": "Snacks",
+      "price": 150,
+      "emoji": "🥟",
+      "description": "Crisp rolls filled with cabbage and carrot, with sweet chilli dip.",
+      "calories": 260,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/spring-rolls.jpeg"
+    },
+    {
+      "id": "steamed-dumplings",
+      "name": "Chicken Dumplings (6 pcs)",
+      "category": "Snacks",
+      "price": 240,
+      "emoji": "🥟",
+      "description": "Steamed dumplings with soy-ginger dipping sauce.",
+      "calories": 310,
+      "tags": [],
+      "available": true,
+      "image": "images/steamed-dumplings.jpeg"
+    },
+    {
+      "id": "french-fries",
+      "name": "French Fries",
+      "category": "Snacks",
+      "price": 160,
+      "emoji": "🍟",
+      "description": "Golden fries with ketchup.",
+      "calories": 410,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/french-fries.jpeg"
+    },
+    {
+      "id": "chicken-nuggets",
+      "name": "Chicken Nuggets (6 pcs)",
+      "category": "Snacks",
+      "price": 220,
+      "emoji": "🍗",
+      "description": "Crispy nuggets with a choice of dip.",
+      "calories": 350,
+      "tags": [],
+      "available": true,
+      "image": "images/chicken-nuggets.jpeg"
+    },
+    {
+      "id": "iced-tea",
+      "name": "Iced Lemon Tea",
+      "category": "Drinks",
+      "price": 100,
+      "emoji": "🧋",
+      "description": "Chilled black tea with lemon.",
+      "calories": 90,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/iced-tea.jpeg"
+    },
+    {
+      "id": "fresh-lime-soda",
+      "name": "Fresh Lime Soda",
+      "category": "Drinks",
+      "price": 120,
+      "emoji": "🍋",
+      "description": "Fresh lime, soda water and mint.",
+      "calories": 90,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/fresh-lime-soda.jpeg"
+    },
+    {
+      "id": "mango-shake",
+      "name": "Mango Shake",
+      "category": "Drinks",
+      "price": 200,
+      "emoji": "🥭",
+      "description": "Ripe mango blended with cold milk and ice cream.",
+      "calories": 340,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/mango-shake.jpeg"
+    },
+    {
+      "id": "hot-chocolate",
+      "name": "Hot Chocolate",
+      "category": "Drinks",
+      "price": 180,
+      "emoji": "☕",
+      "description": "Rich cocoa with steamed milk.",
+      "calories": 230,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/hot-chocolate.jpeg"
+    },
+    {
+      "id": "cold-coffee",
+      "name": "Cold Coffee",
+      "category": "Drinks",
+      "price": 190,
+      "emoji": "🥤",
+      "description": "Iced coffee blended with milk.",
+      "calories": 210,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/cold-coffee.jpeg"
+    },
+    {
+      "id": "choco-brownie",
+      "name": "Chocolate Brownie",
+      "category": "Desserts",
+      "price": 160,
+      "emoji": "🍫",
+      "description": "Warm fudgy brownie.",
+      "calories": 380,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/choco-brownie.jpeg"
+    },
+    {
+      "id": "ice-cream",
+      "name": "Ice Cream Cup",
+      "category": "Desserts",
+      "price": 140,
+      "emoji": "🍨",
+      "description": "Two scoops: vanilla, chocolate or strawberry.",
+      "calories": 270,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/ice-cream.jpeg"
+    },
+    {
+      "id": "cheesecake",
+      "name": "Cheesecake Slice",
+      "category": "Desserts",
+      "price": 250,
+      "emoji": "🍰",
+      "description": "Creamy baked cheesecake with berry sauce.",
+      "calories": 420,
+      "tags": [
+        "Vegetarian"
+      ],
+      "available": true,
+      "image": "images/cheesecake.jpeg"
+    }
+  ]
+}
